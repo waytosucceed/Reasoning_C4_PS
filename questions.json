@@ -1,0 +1,232 @@
+{
+  "heading": "Reasoning",
+  "topics": [
+    {
+      "heading": "Reasoning",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "If A, B, C and D are to be seated in a row, but C and D cannot be together. Also, B cannot be at the third place from the left, then which of the following must be definitely false ?",
+          "options": [
+            { "text": "A is at the second place" },
+            { "text": "A is at the first place" },
+            { "text": "A is at the third place" },
+            { "text": "A is at the fourth place" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "Rima is taller than Sarika but not taller than Reena. Reena and Tanya are of the same height. Rima is shorter than Anu. Amongst all the girls, who is the shortest ?",
+          "options": [
+            { "text": "Anu" },
+            { "text": "Sarika" },
+            { "text": "Rima" },
+            { "text": "Reena and Tanya" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 3,
+          "question": "Among five siblings, Kavita is younger than Mini but elder than Shivani. Shivani is younger than Ritu and Tina. Ritu is elder than Mini but younger than Tina. Who is ranked third in the ascending order of age?",
+          "options": [
+            { "text": "Tina" },
+            { "text": "Ritu" },
+            { "text": "Kavita" },
+            { "text": "Mini" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 4,
+          "question": "G runs faster than H but not as fast as E. F runs faster than H. K runs faster than E. Who amongst the five runs the fastest?",
+          "options": [
+            { "text": "K" },
+            { "text": "F" },
+            { "text": "E" },
+            { "text": "Data inadequate" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 5,
+          "question": "Six students P, Q, R, S, T and U are sitting around the circular table facing towards centre. P is second to the left of U. Q is the neighbour of R and S. T is second to the left of S. Who among the following are neighbouring P?",
+          "options": [
+            { "text": "U and P" },
+            { "text": "T and R" },
+            { "text": "U and R" },
+            { "text": "Data inadequate" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "Q, R, S, T, U AND V are seated in a straight line facing North. S is second to the right of T and T is second to the right of Q. R is to the left of Q and is second to the left of V.<br>How many persons are seated between T and V?",
+          "options": [
+            { "text": "1" },
+            { "text": "2" },
+            { "text": "3" },
+            { "text": "0" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 7,
+          "question": "Q, R, S, T, U AND V are seated in a straight line facing North. S is second to the right of T and T is second to the right of Q. R is to the left of Q and is second to the left of V.<br> What is Q's position with respect to S?",
+          "options": [
+            { "text": "Third to the left" },
+            { "text": "Immediate next" },
+            { "text": "Fourth to the left" },
+            { "text": "Second to the left" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 8,
+          "question": "Q, R, S, T, U AND V are seated in a straight line facing North. S is second to the right of T and T is second to the right of Q. R is to the left of Q and is second to the left of V.<br> Who is sitting at extreme left end?",
+          "options": [
+            { "text": "Q" },
+            { "text": "R" },
+            { "text": "V" },
+            { "text": "S" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "Q, R, S, T, U AND V are seated in a straight line facing North. S is second to the right of T and T is second to the right of Q. R is to the left of Q and is second to the left of V.<br> How many persons are sitting between Q and U?",
+          "options": [
+            { "text": "1" },
+            { "text": "0" },
+            { "text": "2" },
+            { "text": "3" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "V, U and T are seated in a circle facing the centre. A, B and C are also seated in the same circle but one of them is not facing the centre (facing opposite direction of the centre). V is second to the left of C. U is second to the right of A. B is third to the left of T. C is second to the right of T. A is seated next to V.<br> Which of the following is T's position with respect to B?",
+          "options": [
+            { "text": "Third to the right" },
+            { "text": "Second to the right" },
+            { "text": "Third to the left" },
+            { "text": "Both (A) and (C)" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 11,
+          "question": "V, U and T are seated in a circle facing the centre. A, B and C are also seated in the same circle but one of them is not facing the centre (facing opposite direction of the centre). V is second to the left of C. U is second to the right of A. B is third to the left of T. C is second to the right of T. A is seated next to V.<br> Which of the following is V's position with respect to C?",
+          "options": [
+            { "text": "Second to the right" },
+            { "text": "Fourth to the right" },
+            { "text": "Third to the left" },
+            { "text": "Fourth to the left" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "V, U and T are seated in a circle facing the centre. A, B and C are also seated in the same circle but one of them is not facing the centre (facing opposite direction of the centre). V is second to the left of C. U is second to the right of A. B is third to the left of T. C is second to the right of T. A is seated next to V.<br> Which of the following is A's position with respect to U?",
+          "options": [
+            { "text": "Third to the right" },
+            { "text": "Second to the right" },
+            { "text": "Second to the left" },
+            { "text": "Cannot be determined" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "Among M, T, R, V and W, each has different heights. T is taller than only W. R is shorter than M but taller than V. who is the third tallest among them?",
+          "options": [
+            { "text": "V" },
+            { "text": "W" },
+            { "text": "T" },
+            { "text": "R" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "A, B, C, D and E are students  in an university.<ol style='text-align:start' type='i'><li>A and B like both Physics and Chemistry.</li><li>C and D like both Chemistry and Mathematics.</li><li>D and A like both Biology and Chemistry.</li><li>E and B like both Mathematics and Biology.</li></ol><br>Which student like the most number of subjects?",
+          "options": [
+            { "text": "E" },
+            { "text": "D" },
+            { "text": "C" },
+            { "text": "B" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 15,
+          "question": "A, B, C, D and E are students  in an university.<ol style='text-align:start' type='i'><li>A and B like both Physics and Chemistry.</li><li>C and D like both Chemistry and Mathematics.</li><li>D and A like both Biology and Chemistry.</li><li>E and B like both Mathematics and Biology.</li></ol><br>Common subject liked by A, C and D is__________.",
+          "options": [
+            { "text": "Mathematics" },
+            { "text": "Chemistry" },
+            { "text": "Physics" },
+            { "text": "Biology" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "A, B, C, D and E are students in an university.<ol style='text-align:start' type='i'><li>A and B like both Physics and Chemistry.</li><li>C and D like both Chemistry and Mathematics.</li><li>D and A like both Biology and Chemistry.</li><li>E and B like both Mathematics and Biology.</li></ol><br>The pair of students who likes only two subjects are________.",
+          "options": [
+            { "text": "C-E" },
+            { "text": "B-C" },
+            { "text": "A-D" },
+            { "text": "D-E" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 17,
+          "question": "P, Q, R, S, T, U, V and W are sitting around a circular table facing the centre. P sits second to the right of S, who is third to the right of T. R sits third to the left of V, who is not an immediate neighbour of T. W sits third to the left of Q, who sits second to the left of V.<BR>Who sits second to the right of U?",
+          "options": [
+            { "text": "T" },
+            { "text": "V" },
+            { "text": "W" },
+            { "text": "R" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 18,
+          "question": "Six persons P, Q, R, S, T and V are sitting in circle facing one another front to front. P is sitting in front of Q. Q is sitting to the right of T and left of R. P is to the left of U and right of S. If the positions of P and R are interchanged, then who will be sitting between S and U? ",
+          "options": [
+            { "text": "P" },
+            { "text": "R" },
+            { "text": "Q" },
+            { "text": "T" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 19,
+          "question": "P, Q, R, 5, T, U, V and W are sitting around a circular table facing the centre. P sits fourth to the right of T. U and V are immediate neighbour of R. W sits to the immediate left of P. U sits third to the right of Q. Which of the following are immediate neighbours of T?",
+          "options": [
+            { "text": "R and Q" },
+            { "text": "V and S" },
+            { "text": "P and R" },
+            { "text": "W and Q" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "Six friends Shikha, Heena, Jiya, Navya, Shivani and Priya sitting around a circular table facing the centre. Heena sits second to the left of Shikha, Priya sits 3rd to the right of Shivani, Priya is not immediate neighbour of Sikha. Jiya is immediate neighbour of Heena and Priya. Then, who sits 4th to the left of Shivani?",
+          "options": [
+            { "text": "Heena" },
+            { "text": "Shikha" },
+            { "text": "Navya" },
+            { "text": "Priya" }
+          ],
+          "answer": 2
+        }
+      ]
+      
+      
+    }
+  ]
+}
